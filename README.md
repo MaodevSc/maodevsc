@@ -8,8 +8,8 @@
 
 
 📖 | ***About me***
-<p align='left '>🌐 I am a Computer Systems student. I am 21 years old and live in the beautiful city of Santa Cruz de la Sierra.
-I have had the opportunity to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meet very talented colleagues and professors, sharing knowledge with&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; many of them.
+<p align='left width="46%" '>🌐 I am a Computer Systems student. I am 21 years old and live in the beautiful city of Santa Cruz de la Sierra.
+I have had the opportunity to meet very talented colleagues and professors, sharing knowledge with many of them.
 I have been studying programming for two years, and I am excited to be part of your team...</p>
 
 
