@@ -2,7 +2,7 @@
 <h3 align="center">FRONTEND DEVELOPER</h3>
 <br>
 <dl><dd>
-<img align='right'   src="https://i.pinimg.com/originals/50/27/2a/50272a0d34a8666dbe24b03c0544d7ec.gif" height="230" alt="room-pc2" >
+<img align='right'   src="https://i.pinimg.com/originals/50/27/2a/50272a0d34a8666dbe24b03c0544d7ec.gif" width="46%"  alt="room-pc2" >
 </dd></dl>
 <hr width="46%" >
 
