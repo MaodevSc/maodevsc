@@ -23,11 +23,11 @@ jobs:
 
       - run: git status
 
-      - name: Push changes
+      - name: Push changes to output branch
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: output   # Cambiar 'master' por 'output'
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
