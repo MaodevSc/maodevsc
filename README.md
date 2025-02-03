@@ -33,7 +33,15 @@ I have been studying programming for two years, and I am excited to be part of y
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
-
+<a href="https://es.wikipedia.org/wiki/HTML5" target="_blank">
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+<a href="https://es.wikipedia.org/wiki/CSS" target="_blank">
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+<a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank">
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+</a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </a>
@@ -45,6 +53,10 @@ I have been studying programming for two years, and I am excited to be part of y
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 </a>-->
 
+
+
+<!-- Frontend Frameworks/Libraries -->
+
 <a href="https://reactjs.org/" target="_blank">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </a>
@@ -52,11 +64,6 @@ I have been studying programming for two years, and I am excited to be part of y
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </a>
 
-<!-- Mobile Development -->
-<a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
-
-
-<!-- Frontend Frameworks/Libraries -->
 <a href="https://tailwindcss.com/" target="_blank">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </a>
@@ -75,9 +82,18 @@ I have been studying programming for two years, and I am excited to be part of y
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+<a href="https://github.com/" target="_blank">
+  <img alt="xampp" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+</a>
+
 <!-- <a href="https://git-scm.com/" target="_blank">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </a>-->
+
+<!-- Mobile Development -->
+<a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
+
+
 
 <!-- Design Tools -->
 <a href="https://www.figma.com/" target="_blank">
@@ -96,12 +112,6 @@ I have been studying programming for two years, and I am excited to be part of y
  <a href="https://visualstudio.microsoft.com/" target="_blank"> 
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
   </a>
-
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-   ![Xmapp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
   
     
