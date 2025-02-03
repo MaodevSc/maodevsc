@@ -37,11 +37,13 @@ I have been studying programming for two years, and I am excited to be part of y
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </a>
-
-<!-- Web Development -->
-<a href="https://expressjs.com/" target="_blank">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+<a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank">
+ <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </a>
+<!-- Web Development -->
+<!-- <a href="https://expressjs.com/" target="_blank">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+</a>-->
 
 <a href="https://reactjs.org/" target="_blank">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -73,9 +75,9 @@ I have been studying programming for two years, and I am excited to be part of y
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
+<!-- <a href="https://git-scm.com/" target="_blank">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</a>
+</a>-->
 
 <!-- Design Tools -->
 <a href="https://www.figma.com/" target="_blank">
@@ -87,6 +89,22 @@ I have been studying programming for two years, and I am excited to be part of y
 
 <a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"></a>
 
+ <a href="https://code.visualstudio.com/" target="_blank"> 
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  </a>   
+
+ <a href="https://visualstudio.microsoft.com/" target="_blank"> 
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
+  </a>
+
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+   ![Xmapp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
+
+  
+    
 <br>
 <p align="center">
     <img src="https://raw.githubusercontent.com/MaodevSc/maodevsc/output/github-contribution-grid-snake.svg" alt="snake gif" />
