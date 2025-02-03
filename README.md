@@ -32,5 +32,5 @@ I have been studying programming for two years, and I am excited to be part of y
    </center>
 </p>
 
-![snake gif](https://raw.githubusercontent.com/MaodevSc/maodevsc/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MaodevSc/MaodevSc/blob/output/github-contribution-grid-snake.gif)
 
