@@ -28,9 +28,9 @@ I have been studying programming for two years, and I am excited to be part of y
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Skills  </h2>
 
 <br>
-  <p align="center">
-   </center>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/MaodevSc/maodevsc/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
-![snake gif](https://github.com/MaodevSc/MaodevSc/blob/output/github-contribution-grid-snake.gif)
+
 
