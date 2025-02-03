@@ -39,8 +39,6 @@ I have been studying programming for two years, and I am excited to be part of y
 </a>
 
 <!-- Web Development -->
-
-
 <a href="https://expressjs.com/" target="_blank">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 </a>
@@ -53,15 +51,12 @@ I have been studying programming for two years, and I am excited to be part of y
 </a>
 
 <!-- Mobile Development -->
+<a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
 
 
 <!-- Frontend Frameworks/Libraries -->
 <a href="https://tailwindcss.com/" target="_blank">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</a>
-
-<a href="https://material-ui.com/" target="_blank">
-  <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 </a>
 
 <a href="https://getbootstrap.com/" target="_blank">
@@ -88,6 +83,9 @@ I have been studying programming for two years, and I am excited to be part of y
 </a>
 
 
+<a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
+
+<a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"></a>
 
 <br>
 <p align="center">
