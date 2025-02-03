@@ -114,7 +114,7 @@ I have been studying programming for two years, and I am excited to be part of y
   </a>
 
   
-    
+<hr width="100%" >
 <br>
 <p align="center">
     <img src="https://raw.githubusercontent.com/MaodevSc/maodevsc/output/github-contribution-grid-snake.svg" alt="snake gif" />
