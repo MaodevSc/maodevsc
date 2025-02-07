@@ -68,9 +68,9 @@ I have been studying programming for two years, and I am excited to be part of y
 <a href="https://reactjs.org/" target="_blank">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </a>
-<a href="https://nodejs.org/" target="_blank">
+<!--<a href="https://nodejs.org/" target="_blank">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-</a>
+</a>-->
 
 <br>
 
